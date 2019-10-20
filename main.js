@@ -1,5 +1,5 @@
-require('justgage');
-// var JustGage = require('justgage');
+// require('justgage');
+var JustGage = require('justgage');
 
 var gauge = new JustGage({
     id: "gauge", // the id of the html element
