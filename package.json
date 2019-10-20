@@ -4,11 +4,12 @@
   "description": "A sample setup of a webpage that uses the justgage npm package",
   "main": "index.html",
   "dependencies": {
+    "justgage": "^1.3.2"
+  },
+  "devDependencies": {
     "browserify": "^16.5.0",
-    "justgage": "^1.3.2",
     "watchify": "^3.11.1"
   },
-  "devDependencies": {},
   "scripts": {
     "build": "browserify main.js -o bundle.js",
     "watch": "npx watchify main.js -o bundle.js",
