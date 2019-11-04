@@ -35,6 +35,8 @@ with  `npm`. For example the JustGage library:
 <div id="gauge"></div>
 ```
 
+![JustGage Sample](images/gage-sample.gif)
+
 ---
 
 **References**:
