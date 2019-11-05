@@ -30,7 +30,7 @@ with  `npm`. For example the JustGage library:
     "justgage": "^1.3.2"
   },
 ```
-- See `index.html` loading the `bundle.js` file after the target html elemet is define:
+- See `index.html` loading the `bundle.js` file after the target html elemet is defined:
 ```html
 <div id="gauge"></div>
 ```
