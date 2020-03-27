@@ -4,8 +4,8 @@ A sample webpage built with [Browserify](https://www.npmjs.com/package/browserif
 [JustGage](https://www.npmjs.com/package/justgage) npm package.
 
 **JustGage** is described as:
-> A handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library
-> for vector drawing.
+> A handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on the Raphaël
+> library for vector drawing.
 
 **Browserify** is described as:
 > Browserify is a development tool that allows us to write node.js-style modules that compile for use in the browser.
@@ -30,7 +30,7 @@ with  `npm`. For example the JustGage library:
     "justgage": "^1.3.2"
   },
 ```
-- See `index.html` loading the `bundle.js` file after the target html elemet is defined:
+- See `index.html` loading the `bundle.js` file after the target html element is defined:
 ```html
 <div id="gauge"></div>
 ```
