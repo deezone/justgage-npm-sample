@@ -27,7 +27,7 @@ This results in a single Javascript file that includes all the packages defined 
 with  `npm`. For example the JustGage library:
 ```javascript
   "dependencies": {
-    "justgage": "^1.3.2"
+    "justgage": "^1.3.5"
   },
 ```
 - See `index.html` loading the `bundle.js` file after the target html element is defined:
