@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "A sample setup of a webpage that uses the justgage npm package",
   "main": "index.html",
+  "repository": "https://github.com/deezone/justgage-npm-sample",
   "dependencies": {
     "justgage": "^1.3.5"
   },
