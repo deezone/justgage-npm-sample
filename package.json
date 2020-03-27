@@ -4,7 +4,7 @@
   "description": "A sample setup of a webpage that uses the justgage npm package",
   "main": "index.html",
   "dependencies": {
-    "justgage": "^1.3.2"
+    "justgage": "^1.3.5"
   },
   "devDependencies": {
     "browserify": "^16.5.0",
