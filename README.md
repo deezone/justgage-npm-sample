@@ -27,12 +27,21 @@ This results in a single Javascript file that includes all the packages defined 
 with  `npm`. For example the JustGage library:
 ```javascript
   "dependencies": {
-    "justgage": "^1.3.5"
+    "justgage": "^1.4.0"
   },
 ```
 - See `index.html` loading the `bundle.js` file after the target html element is defined:
 ```html
 <div id="gauge"></div>
+```
+
+NOTE: browserfy can be install globally with:
+```
+npm install -g browserify
+```
+or run with npm as a script with:
+```
+npm run build
 ```
 
 ![JustGage Sample](images/gage-sample.gif)
